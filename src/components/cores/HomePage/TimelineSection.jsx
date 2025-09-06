@@ -1,5 +1,5 @@
 import React from "react";
-import KeyFeature from "./keyFeature";
+import KeyFeature from "./KeyFeature"
 import LeaderShipIcon from "../../../assets/TimeLineLogo/logo1.svg";
 import ResponsibilityIcon from "../../../assets/TimeLineLogo/logo2.svg";
 import FlexibilityIcon from "../../../assets/TimeLineLogo/logo3.svg";
